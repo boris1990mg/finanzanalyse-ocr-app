@@ -1,0 +1,7 @@
+
+streamlit
+pytesseract
+pdf2image
+pillow
+matplotlib
+pandas
