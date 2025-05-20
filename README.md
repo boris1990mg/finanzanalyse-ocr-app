@@ -1,0 +1,1 @@
+# finanzanalyse-ocr-app
